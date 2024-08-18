@@ -1,5 +1,6 @@
 # ds-assignment1
-## AIM: To write a python program daa science using pandas and its functionalities
+## AIM:
+To write a python program daa science using pandas and its functionalities
 ## STEPS:
 ```
 1.Install required csv file named as bamk_train.csv
